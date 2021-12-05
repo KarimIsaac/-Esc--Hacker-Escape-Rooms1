@@ -734,19 +734,7 @@ display: inline-block;
   top: 50%;
   }
 
-  @media screen and (max-width: 960px) {
-  .topPic{
-top: 200px;
 
-  }
-.box{
-
-  left: 400px;
-}
-
-
-
-  }
   
 
  @media screen and (max-width:800px){
@@ -1290,3 +1278,10 @@ top: 20em;
 
 
 
+@media screen and (max-width: 960px) {
+  .mac{
+height: 20px;
+
+
+  }
+}

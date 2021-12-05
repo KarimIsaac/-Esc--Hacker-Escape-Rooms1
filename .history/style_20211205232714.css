@@ -736,16 +736,9 @@ display: inline-block;
 
   @media screen and (max-width: 960px) {
   .topPic{
-top: 200px;
+top: 130px;
 
   }
-.box{
-
-  left: 400px;
-}
-
-
-
   }
   
 

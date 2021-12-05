@@ -1278,7 +1278,7 @@ top: 20em;
 
 
 
-@media screen and (max-width: 9px) {
+@media screen and (max-width: 960px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
